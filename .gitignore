@@ -1,0 +1,6 @@
+node_modules
+keyFile.json
+s3config.json
+dist
+build
+.env
